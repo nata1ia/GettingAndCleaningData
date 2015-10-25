@@ -22,4 +22,5 @@ An identifier of the subject who carried out the experiment.
 # Directory and filename (.txt) of the clean/tidy data
 "./tidy-UCI-HAR-dataset-AVG.txt"
 
-# The result is saved as "./tidy-UCI-HAR-dataset-AVG.txt", a 180x68 data table (181 with column name), where as before, the first column contains subject IDs, the second column contains activity names (see below), and then the averages for each of the 66 attributes are in columns 3...68. There are 30 subjects and 6 activities, thus 180 rows in this data set with averages.
+# The result is saved as "./tidy-UCI-HAR-dataset-AVG.txt"
+This is a 180x68 data table (181 with column name), where as before, the first column contains subject IDs, the second column contains activity names (see below), and then the averages for each of the 66 attributes are in columns 3...68. There are 30 subjects and 6 activities, thus 180 rows in this data set with averages.
